@@ -1,6 +1,6 @@
 #!/user/bin/python
 #encoding:utf-8
-# @author: yqq
+
 dict ={u'零':0, u'壹':1, u'贰':2, u'叁':3, u'肆':4, u'伍':5, u'陆':6, u'柒':7, u'捌':8, u'玖':9, u'拾':10, u'佰':100, u'仟':1000, u'万':10000,
        u'亿':100000000,u'角':0.1,u'分':0.01}
 def getResultForDigit(a,encoding='utf-8'):

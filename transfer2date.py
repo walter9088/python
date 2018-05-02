@@ -1,6 +1,5 @@
 
 # encoding:utf-8
-#@author yqq
 
 import re
 
